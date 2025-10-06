@@ -69,7 +69,7 @@ python3 -m consumers.crime_consumer_webb
 
 The consumer generates a dual-panel visualization that updates in real-time:
 
-![Kansas City Crime Visualization](images/kc_crime_visualizations.png)
+![Kansas City Crime Visualization](images/KC_crime_visualizations.png)
 
 **Left Panel**: Interactive map showing crime incident locations plotted on actual Kansas City streets. Each point is color-coded by crime category, allowing quick identification of crime type distribution across different areas.
 
