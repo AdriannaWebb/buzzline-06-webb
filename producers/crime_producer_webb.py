@@ -1,10 +1,8 @@
 """
-csv_producer_case.py
+crime_producer_webb.py
 
-Stream numeric data to a Kafka topic.
-
-It is common to transfer csv data as JSON so 
-each field is clearly labeled. 
+Stream Kansas City crime data from CSV to Kafka topic.
+Simulates real-time crime reporting by sending one incident at a time.
 """
 
 #####################################
@@ -44,14 +42,14 @@ load_dotenv()
 
 def get_kafka_topic() -> str:
     """Fetch Kafka topic from environment or use default."""
-    topic = os.getenv("SMOKER_TOPIC", "unknown_topic")
+    topic = os.getenv("CRIME_TOPIC", "kc_crime_2025")
     logger.info(f"Kafka topic: {topic}")
     return topic
 
 
-def get_message_interval() -> int:
+def get_message_interval() -> float:
     """Fetch message interval from environment or use default."""
-    interval = int(os.getenv("SMOKER_INTERVAL_SECONDS", 1))
+    interval = float(os.getenv("CRIME_INTERVAL_SECONDS", 0.5))
     logger.info(f"Message interval: {interval} seconds")
     return interval
 
@@ -70,7 +68,7 @@ DATA_FOLDER = PROJECT_ROOT.joinpath("data")
 logger.info(f"Data folder: {DATA_FOLDER}")
 
 # Set the name of the data file
-DATA_FILE = DATA_FOLDER.joinpath("smoker_temps.csv")
+DATA_FILE = DATA_FOLDER.joinpath("KC_crimes_2025.csv")
 logger.info(f"Data file: {DATA_FILE}")
 
 #####################################
@@ -86,25 +84,39 @@ def generate_messages(file_path: pathlib.Path):
         file_path (pathlib.Path): Path to the CSV file.
 
     Yields:
-        str: CSV row formatted as a string.
+        dict: Crime incident data as a dictionary.
     """
     try:
         logger.info(f"Opening data file in read mode: {DATA_FILE}")
-        with open(DATA_FILE, "r") as csv_file:
+        with open(DATA_FILE, "r", encoding="utf-8") as csv_file:
             logger.info(f"Reading data from file: {DATA_FILE}")
 
             csv_reader = csv.DictReader(csv_file)
             for row in csv_reader:
-                # Ensure required fields are present
-                if "temperature" not in row:
-                    logger.error(f"Missing 'temperature' column in row: {row}")
-                    continue
-
-                # Generate a timestamp and prepare the message
-                current_timestamp = datetime.utcnow().isoformat()
+                # Extract location data from "Location" column
+                # Format is: POINT (-94.4192 39.0646)
+                latitude = None
+                longitude = None
+                location_str = row.get("Location", "")
+                if location_str and "POINT" in location_str:
+                    try:
+                        # Remove "POINT (" and ")"
+                        coords = location_str.replace("POINT (", "").replace(")", "").strip()
+                        lon, lat = coords.split()
+                        longitude = float(lon)
+                        latitude = float(lat)
+                    except:
+                        pass  # Skip if location parsing fails
+                
+                # Create message with crime data including coordinates
                 message = {
-                    "timestamp": current_timestamp,
-                    "temperature": float(row["temperature"]),
+                    "offense": row.get("Offense", ""),
+                    "description": row.get("Description", ""),
+                    "address": row.get("Address", ""),
+                    "reported_date": row.get("Reported_Date", ""),
+                    "reported_time": row.get("Reported_Time", ""),
+                    "latitude": latitude,
+                    "longitude": longitude
                 }
                 logger.debug(f"Generated message: {message}")
                 yield message
@@ -159,11 +171,11 @@ def main():
         sys.exit(1)
 
     # Generate and send messages
-    logger.info(f"Starting message production to topic '{topic}'...")
+    logger.info(f"Starting crime data streaming to topic '{topic}'...")
     try:
         for csv_message in generate_messages(DATA_FILE):
             producer.send(topic, value=csv_message)
-            logger.info(f"Sent message to topic '{topic}': {csv_message}")
+            logger.info(f"Sent crime: {csv_message['offense']} at {csv_message['address']}")
             time.sleep(interval_secs)
     except KeyboardInterrupt:
         logger.warning("Producer interrupted by user.")
