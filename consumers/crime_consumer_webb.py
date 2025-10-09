@@ -170,16 +170,16 @@ def update_chart():
 # MAP SUBPLOT 
     # Define colors for each crime category
     crime_colors = {
-        "Violent Crime": "#ED8B00",
+        "Violent Crime": "#ED2B00",
         "Theft": "#00AFD7",
-        "Vehicle Crime": "#002F6C",
+        "Vehicle Crime": "#28006C",
         "Burglary": "#F2A900",
         "Robbery": "#078385",
         "Property Crime": "#007398",
         "Drug Offense": "#005F86",
         "Weapons": "#8B0000",
         "Fraud": "#9370DB",
-        "Domestic Violence": "#DC143C",
+        "Domestic Violence": "#14DCB7",
         "Other": "#808080"
     }
     

@@ -1,0 +1,352 @@
+2025-10-05 21:12:25 | INFO | Sent crime: Stealing - Shoplift at 4000  INDEPENDENCE AVE
+2025-10-05 21:12:25 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '4000  INDEPENDENCE AVE', 'reported_date': '03/11/2025', 'reported_time': '14:35', 'latitude': 39.10577, 'longitude': -94.53508}
+2025-10-05 21:12:25 | INFO | Crime: Theft at 4000  INDEPENDENCE AVE
+2025-10-05 21:12:27 | INFO | Sent crime: Tampering at 6200  PEERY AVE
+2025-10-05 21:12:27 | INFO | Processed JSON message: {'offense': 'Tampering', 'description': 'Motor Vehicle Theft', 'address': '6200  PEERY AVE', 'reported_date': '01/11/2025', 'reported_time': '17:40', 'latitude': 39.09843, 'longitude': -94.50976}
+2025-10-05 21:12:27 | INFO | Crime: Property Crime at 6200  PEERY AVE
+2025-10-05 21:12:29 | INFO | Sent crime: Robbery (Business) at 3700  INDEPENDENCE AVE
+2025-10-05 21:12:29 | INFO | Processed JSON message: {'offense': 'Robbery (Business)', 'description': 'Robbery', 'address': '3700  INDEPENDENCE AVE', 'reported_date': '01/25/2025', 'reported_time': '20:21', 'latitude': 39.10584, 'longitude': -94.53697}
+2025-10-05 21:12:29 | INFO | Crime: Robbery at 3700  INDEPENDENCE AVE
+2025-10-05 21:12:31 | INFO | Sent crime: Stealing - Shoplift at 10200  WORNALL RD
+2025-10-05 21:12:31 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '10200  WORNALL RD', 'reported_date': '03/03/2025', 'reported_time': '15:13', 'latitude': 38.94329, 'longitude': -94.59656}
+2025-10-05 21:12:31 | INFO | Crime: Theft at 10200  WORNALL RD
+2025-10-05 21:12:33 | INFO | Sent crime: Harassment / Intimidation - Domestic Violence at 1500  MAIN ST
+2025-10-05 21:12:33 | INFO | Processed JSON message: {'offense': 'Harassment / Intimidation - Domestic Violence', 'description': 'Intimidation', 'address': '1500  MAIN ST', 'reported_date': '01/21/2025', 'reported_time': '12:51', 'latitude': 39.09578, 'longitude': -94.58339}
+2025-10-05 21:12:33 | INFO | Crime: Domestic Violence at 1500  MAIN ST
+2025-10-05 21:12:35 | INFO | Sent crime: Stealing - Shoplift at 11600  E US 40 HWY
+2025-10-05 21:12:35 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '11600  E US 40 HWY', 'reported_date': '02/20/2025', 'reported_time': '16:06', 'latitude': 39.04642, 'longitude': -94.44111}
+2025-10-05 21:12:35 | INFO | Crime: Theft at 11600  E US 40 HWY
+2025-10-05 21:12:37 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 3200  E 11TH ST
+2025-10-05 21:12:37 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '3200  E 11TH ST', 'reported_date': '02/17/2025', 'reported_time': '21:48', 'latitude': 39.10038, 'longitude': -94.54422}
+2025-10-05 21:12:37 | INFO | Crime: Violent Crime at 3200  E 11TH ST
+2025-10-05 21:12:39 | INFO | Sent crime: Disorderly Conduct at E 11TH ST and GRAND BLVD
+2025-10-05 21:12:39 | INFO | Processed JSON message: {'offense': 'Disorderly Conduct', 'description': 'Disorderly Conduct', 'address': 'E 11TH ST and GRAND BLVD', 'reported_date': '03/16/2025', 'reported_time': '11:46', 'latitude': 39.10104, 'longitude': -94.58084}
+2025-10-05 21:12:39 | INFO | Crime: Other at E 11TH ST and GRAND BLVD
+2025-10-05 21:12:41 | INFO | Sent crime: Burglary (Non-Residential) at 400  W 8TH ST
+2025-10-05 21:12:41 | INFO | Processed JSON message: {'offense': 'Burglary (Non-Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '400  W 8TH ST', 'reported_date': '03/04/2025', 'reported_time': '10:41', 'latitude': 39.10466, 'longitude': -94.58878}
+2025-10-05 21:12:41 | INFO | Crime: Burglary at 400  W 8TH ST
+2025-10-05 21:12:43 | INFO | Sent crime: Assault (Non-Aggravated) at 5100  E FRONT ST
+2025-10-05 21:12:43 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '5100  E FRONT ST', 'reported_date': '01/26/2025', 'reported_time': '04:01', 'latitude': 39.13085, 'longitude': -94.5212}
+2025-10-05 21:12:43 | INFO | Crime: Violent Crime at 5100  E FRONT ST
+2025-10-05 21:12:45 | INFO | Sent crime: Stolen Auto at 1200  E 116TH TER
+2025-10-05 21:12:45 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '1200  E 116TH TER', 'reported_date': '02/07/2025', 'reported_time': '12:55', 'latitude': 38.91594, 'longitude': -94.57745}
+2025-10-05 21:12:45 | INFO | Crime: Vehicle Crime at 1200  E 116TH TER
+2025-10-05 21:12:47 | INFO | Sent crime: City/Municipal Warrant Arrest at 3900  NW 85TH TER
+2025-10-05 21:12:47 | INFO | Processed JSON message: {'offense': 'City/Municipal Warrant Arrest', 'description': '', 'address': '3900  NW 85TH TER', 'reported_date': '02/05/2025', 'reported_time': '13:50', 'latitude': 39.24939, 'longitude': -94.62496}
+2025-10-05 21:12:47 | INFO | Crime: Other at 3900  NW 85TH TER
+2025-10-05 21:12:49 | INFO | Sent crime: Domestic Violence Property Damage at 2900  E LINWOOD BLVD
+2025-10-05 21:12:49 | INFO | Processed JSON message: {'offense': 'Domestic Violence Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '2900  E LINWOOD BLVD', 'reported_date': '02/10/2025', 'reported_time': '19:33', 'latitude': 39.06792, 'longitude': -94.54929}
+2025-10-05 21:12:49 | INFO | Crime: Property Crime at 2900  E LINWOOD BLVD
+2025-10-05 21:12:51 | INFO | Sent crime: Murder at 2400  CHESTNUT AVE
+2025-10-05 21:12:51 | INFO | Processed JSON message: {'offense': 'Murder', 'description': 'Kidnapping / Abduction', 'address': '2400  CHESTNUT AVE', 'reported_date': '02/01/2025', 'reported_time': '02:25', 'latitude': 39.08293, 'longitude': -94.54988}
+2025-10-05 21:12:51 | INFO | Crime: Violent Crime at 2400  CHESTNUT AVE
+2025-10-05 21:12:53 | INFO | Sent crime: Property Damage at E 23RD ST and JACKSON AVE
+2025-10-05 21:12:53 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': 'E 23RD ST and JACKSON AVE', 'reported_date': '01/18/2025', 'reported_time': '18:07', 'latitude': 39.08371, 'longitude': -94.53373}
+2025-10-05 21:12:53 | INFO | Crime: Property Crime at E 23RD ST and JACKSON AVE
+2025-10-05 21:12:55 | INFO | Sent crime: Stealing - Other at 600  NE 115TH ST
+2025-10-05 21:12:55 | INFO | Processed JSON message: {'offense': 'Stealing - Other', 'description': 'All Other Larceny', 'address': '600  NE 115TH ST', 'reported_date': '03/12/2025', 'reported_time': '13:53', 'latitude': 39.30181, 'longitude': -94.57174}
+2025-10-05 21:12:55 | INFO | Crime: Theft at 600  NE 115TH ST
+2025-10-05 21:12:57 | INFO | Sent crime: Trespass of Real Property at 100  SOUTHWEST BLVD
+2025-10-05 21:12:57 | INFO | Processed JSON message: {'offense': 'Trespass of Real Property', 'description': 'Trespass of Real Property', 'address': '100  SOUTHWEST BLVD', 'reported_date': '02/20/2025', 'reported_time': '15:38', 'latitude': 39.09037, 'longitude': -94.58493}
+2025-10-05 21:12:57 | INFO | Crime: Other at 100  SOUTHWEST BLVD
+2025-10-05 21:12:59 | INFO | Sent crime: Property Damage at 7700  HOLMES RD
+2025-10-05 21:12:59 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '7700  HOLMES RD', 'reported_date': '02/02/2025', 'reported_time': '23:43', 'latitude': 38.98796, 'longitude': -94.5805}
+2025-10-05 21:12:59 | INFO | Crime: Property Crime at 7700  HOLMES RD
+2025-10-05 21:13:01 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 8600  ROBANDEE LN
+2025-10-05 21:13:01 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '8600  ROBANDEE LN', 'reported_date': '03/14/2025', 'reported_time': '22:39', 'latitude': 38.95338, 'longitude': -94.48859}
+2025-10-05 21:13:01 | INFO | Crime: Violent Crime at 8600  ROBANDEE LN
+2025-10-05 21:13:03 | INFO | Sent crime: Domestic Violence Property Damage at 1500  MARY LOU WILLIAMS LN
+2025-10-05 21:13:03 | INFO | Processed JSON message: {'offense': 'Domestic Violence Property Damage', 'description': 'Drug / Narcotic Violations', 'address': '1500  MARY LOU WILLIAMS LN', 'reported_date': '02/17/2025', 'reported_time': '04:13', 'latitude': 39.1017, 'longitude': -94.56326}
+2025-10-05 21:13:03 | INFO | Crime: Property Crime at 1500  MARY LOU WILLIAMS LN
+2025-10-05 21:13:05 | INFO | Sent crime: Stolen Auto at 6400  NE 43RD TER
+2025-10-05 21:13:05 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '6400  NE 43RD TER', 'reported_date': '01/20/2025', 'reported_time': '15:05', 'latitude': 39.17291, 'longitude': -94.50385}
+2025-10-05 21:13:05 | INFO | Crime: Vehicle Crime at 6400  NE 43RD TER
+2025-10-05 21:13:07 | INFO | Sent crime: Stolen Auto at 3700  N BRIARCLIFF RD
+2025-10-05 21:13:07 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '3700  N BRIARCLIFF RD', 'reported_date': '01/17/2025', 'reported_time': '16:22', 'latitude': 39.16117, 'longitude': -94.58645}
+2025-10-05 21:13:07 | INFO | Crime: Vehicle Crime at 3700  N BRIARCLIFF RD
+2025-10-05 21:13:09 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 4100  E 35TH ST
+2025-10-05 21:13:09 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '4100  E 35TH ST', 'reported_date': '01/11/2025', 'reported_time': '15:06', 'latitude': 39.0621, 'longitude': -94.53579}
+2025-10-05 21:13:09 | INFO | Crime: Violent Crime at 4100  E 35TH ST
+2025-10-05 21:13:11 | INFO | Sent crime: Burglary (Residential) at 6500  SNI-A-BAR RD
+2025-10-05 21:13:11 | INFO | Processed JSON message: {'offense': 'Burglary (Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '6500  SNI-A-BAR RD', 'reported_date': '03/17/2025', 'reported_time': '12:14', 'latitude': 39.03487, 'longitude': -94.50854}
+2025-10-05 21:13:11 | INFO | Crime: Burglary at 6500  SNI-A-BAR RD
+2025-10-05 21:13:13 | INFO | Sent crime: Possession of Stolen Property at E 113TH TER and CALICO DR
+2025-10-05 21:13:13 | INFO | Processed JSON message: {'offense': 'Possession of Stolen Property', 'description': 'Stolen Property Offenses', 'address': 'E 113TH TER and CALICO DR', 'reported_date': '02/14/2025', 'reported_time': '01:45', 'latitude': 38.92041, 'longitude': -94.5536}
+2025-10-05 21:13:13 | INFO | Crime: Other at E 113TH TER and CALICO DR
+2025-10-05 21:13:15 | INFO | Sent crime: Robbery (Armed Street) at 10300  CRYSTAL AVE
+2025-10-05 21:13:15 | INFO | Processed JSON message: {'offense': 'Robbery (Armed Street)', 'description': 'Robbery', 'address': '10300  CRYSTAL AVE', 'reported_date': '01/12/2025', 'reported_time': '19:00', 'latitude': 38.93695, 'longitude': -94.50468}
+2025-10-05 21:13:15 | INFO | Crime: Robbery at 10300  CRYSTAL AVE
+2025-10-05 21:13:17 | INFO | Sent crime: Eluding / Resisting a Lawful Stop at 2500  ASKEW AVE
+2025-10-05 21:13:17 | INFO | Processed JSON message: {'offense': 'Eluding / Resisting a Lawful Stop', 'description': 'Drug Equipment Violations', 'address': '2500  ASKEW AVE', 'reported_date': '02/22/2025', 'reported_time': '16:58', 'latitude': 39.08018, 'longitude': -94.54084}
+2025-10-05 21:13:17 | INFO | Crime: Other at 2500  ASKEW AVE
+2025-10-05 21:13:19 | INFO | Sent crime: Assault (Non-Aggravated) at E 45TH ST and TROOST AVE
+2025-10-05 21:13:19 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': 'E 45TH ST and TROOST AVE', 'reported_date': '01/30/2025', 'reported_time': '13:13', 'latitude': 39.04529, 'longitude': -94.57274}
+2025-10-05 21:13:19 | INFO | Crime: Violent Crime at E 45TH ST and TROOST AVE
+2025-10-05 21:13:21 | INFO | Sent crime: City/Municipal Warrant Arrest at 2700  E 29TH ST
+2025-10-05 21:13:21 | INFO | Processed JSON message: {'offense': 'City/Municipal Warrant Arrest', 'description': '', 'address': '2700  E 29TH ST', 'reported_date': '03/04/2025', 'reported_time': '19:54', 'latitude': 39.07264, 'longitude': -94.54984}
+2025-10-05 21:13:21 | INFO | Crime: Other at 2700  E 29TH ST
+2025-10-05 21:13:23 | INFO | Sent crime: Trespass of Real Property at 3000  PROSPECT AVE
+2025-10-05 21:13:23 | INFO | Processed JSON message: {'offense': 'Trespass of Real Property', 'description': 'Trespass of Real Property', 'address': '3000  PROSPECT AVE', 'reported_date': '02/21/2025', 'reported_time': '13:28', 'latitude': 39.07147, 'longitude': -94.55273}
+2025-10-05 21:13:23 | INFO | Crime: Other at 3000  PROSPECT AVE
+2025-10-05 21:13:25 | INFO | Sent crime: Assault (Aggravated) at 11300  MONTGALL AVE
+2025-10-05 21:13:25 | INFO | Processed JSON message: {'offense': 'Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '11300  MONTGALL AVE', 'reported_date': '01/19/2025', 'reported_time': '19:14', 'latitude': 38.92203, 'longitude': -94.55855}
+2025-10-05 21:13:25 | INFO | Crime: Violent Crime at 11300  MONTGALL AVE
+2025-10-05 21:13:27 | INFO | Sent crime: Vehicular - Non-Injury Hit and Run at 1600  JARBOE ST
+2025-10-05 21:13:27 | INFO | Processed JSON message: {'offense': 'Vehicular - Non-Injury Hit and Run', 'description': 'All Other Offenses', 'address': '1600  JARBOE ST', 'reported_date': '03/09/2025', 'reported_time': '23:44', 'latitude': 39.09482, 'longitude': -94.59641}
+2025-10-05 21:13:27 | INFO | Crime: Other at 1600  JARBOE ST
+2025-10-05 21:13:29 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 5800  RIDGEWAY AVE
+2025-10-05 21:13:29 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '5800  RIDGEWAY AVE', 'reported_date': '01/21/2025', 'reported_time': '01:36', 'latitude': 39.01699, 'longitude': -94.44257}
+2025-10-05 21:13:29 | INFO | Crime: Violent Crime at 5800  RIDGEWAY AVE
+2025-10-05 21:13:31 | INFO | Sent crime: Burglary (Residential) at 1000  PACIFIC ST
+2025-10-05 21:13:31 | INFO | Processed JSON message: {'offense': 'Burglary (Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '1000  PACIFIC ST', 'reported_date': '01/02/2025', 'reported_time': '08:32', 'latitude': 39.10858, 'longitude': -94.57156}
+2025-10-05 21:13:31 | INFO | Crime: Burglary at 1000  PACIFIC ST
+2025-10-05 21:13:33 | INFO | Sent crime: Stolen Auto at 8000  N HICKORY ST
+2025-10-05 21:13:33 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '8000  N HICKORY ST', 'reported_date': '01/24/2025', 'reported_time': '09:13', 'latitude': 39.23957, 'longitude': -94.59479}
+2025-10-05 21:13:33 | INFO | Crime: Vehicle Crime at 8000  N HICKORY ST
+2025-10-05 21:13:35 | INFO | Sent crime: Assault (Non-Aggravated) at 900  JEFFERSON ST
+2025-10-05 21:13:35 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '900  JEFFERSON ST', 'reported_date': '01/19/2025', 'reported_time': '08:41', 'latitude': 39.10374, 'longitude': -94.59211}
+2025-10-05 21:13:35 | INFO | Crime: Violent Crime at 900  JEFFERSON ST
+2025-10-05 21:13:37 | INFO | Sent crime: City/Municipal Warrant Arrest at EMANUEL CLEAVER II BLVD and PROSPECT AVE
+2025-10-05 21:13:37 | INFO | Processed JSON message: {'offense': 'City/Municipal Warrant Arrest', 'description': 'All Other Offenses', 'address': 'EMANUEL CLEAVER II BLVD and PROSPECT AVE', 'reported_date': '02/23/2025', 'reported_time': '09:46', 'latitude': 39.0411, 'longitude': -94.55436}
+2025-10-05 21:13:37 | INFO | Crime: Other at EMANUEL CLEAVER II BLVD and PROSPECT AVE
+2025-10-05 21:13:39 | INFO | Sent crime: Felon/Prohibited Person in Possession of a Firearm/Ammunition/Body Armor at 6800  E TRUMAN RD
+2025-10-05 21:13:39 | INFO | Processed JSON message: {'offense': 'Felon/Prohibited Person in Possession of a Firearm/Ammunition/Body Armor', 'description': 'Weapon Law Violations', 'address': '6800  E TRUMAN RD', 'reported_date': '01/09/2025', 'reported_time': '09:58', 'latitude': 39.09416, 'longitude': -94.50265}
+2025-10-05 21:13:39 | INFO | Crime: Weapons at 6800  E TRUMAN RD
+2025-10-05 21:13:41 | INFO | Sent crime: Stolen Auto at 400  N ELMWOOD AVE
+2025-10-05 21:13:41 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '400  N ELMWOOD AVE', 'reported_date': '01/31/2025', 'reported_time': '06:02', 'latitude': 39.117, 'longitude': -94.52777}
+2025-10-05 21:13:41 | INFO | Crime: Vehicle Crime at 400  N ELMWOOD AVE
+2025-10-05 21:13:43 | INFO | Sent crime: Assault (Aggravated) at 7200  AGNES AVE
+2025-10-05 21:13:43 | INFO | Processed JSON message: {'offense': 'Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '7200  AGNES AVE', 'reported_date': '03/10/2025', 'reported_time': '20:27', 'latitude': 38.99585, 'longitude': -94.55232}
+2025-10-05 21:13:43 | INFO | Crime: Violent Crime at 7200  AGNES AVE
+2025-10-05 21:13:45 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 500  NW 55TH TER
+2025-10-05 21:13:45 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '500  NW 55TH TER', 'reported_date': '01/06/2025', 'reported_time': '20:23', 'latitude': 39.19512, 'longitude': -94.58716}
+2025-10-05 21:13:45 | INFO | Crime: Violent Crime at 500  NW 55TH TER
+2025-10-05 21:13:47 | INFO | Sent crime: Sodomy - Juvenile at 9500  HARRISON ST
+2025-10-05 21:13:47 | INFO | Processed JSON message: {'offense': 'Sodomy - Juvenile', 'description': 'Forcible Rape', 'address': '9500  HARRISON ST', 'reported_date': '03/07/2025', 'reported_time': '14:44', 'latitude': 38.95508, 'longitude': -94.57857}
+2025-10-05 21:13:47 | INFO | Crime: Violent Crime at 9500  HARRISON ST
+2025-10-05 21:13:49 | INFO | Sent crime: Abuse of a Child at 8300  N CHURCH RD
+2025-10-05 21:13:49 | INFO | Processed JSON message: {'offense': 'Abuse of a Child', 'description': 'Simple Assault', 'address': '8300  N CHURCH RD', 'reported_date': '02/14/2025', 'reported_time': '16:18', 'latitude': 39.24181, 'longitude': -94.46236}
+2025-10-05 21:13:49 | INFO | Crime: Other at 8300  N CHURCH RD
+2025-10-05 21:13:51 | INFO | Sent crime: Trespass of Real Property at 2300  HOLMES ST
+2025-10-05 21:13:51 | INFO | Processed JSON message: {'offense': 'Trespass of Real Property', 'description': 'Trespass of Real Property', 'address': '2300  HOLMES ST', 'reported_date': '03/11/2025', 'reported_time': '07:37', 'latitude': 39.08498, 'longitude': -94.57603}
+2025-10-05 21:13:51 | INFO | Crime: Other at 2300  HOLMES ST
+2025-10-05 21:13:53 | INFO | Sent crime: Stealing - Other at 11400  N TRACY AVE
+2025-10-05 21:13:53 | INFO | Processed JSON message: {'offense': 'Stealing - Other', 'description': 'All Other Larceny', 'address': '11400  N TRACY AVE', 'reported_date': '02/13/2025', 'reported_time': '13:12', 'latitude': 39.29998, 'longitude': -94.56384}
+2025-10-05 21:13:53 | INFO | Crime: Theft at 11400  N TRACY AVE
+2025-10-05 21:13:55 | INFO | Sent crime: Robbery (Armed Street) at E 7TH ST and NEWTON AVE
+2025-10-05 21:13:55 | INFO | Processed JSON message: {'offense': 'Robbery (Armed Street)', 'description': 'Robbery', 'address': 'E 7TH ST and NEWTON AVE', 'reported_date': '02/28/2025', 'reported_time': '00:19', 'latitude': 39.10348, 'longitude': -94.50396}
+2025-10-05 21:13:55 | INFO | Crime: Robbery at E 7TH ST and NEWTON AVE
+2025-10-05 21:13:57 | INFO | Sent crime: Stealing - Other at ADMIRAL BLVD and GRAND BLVD
+2025-10-05 21:13:57 | INFO | Processed JSON message: {'offense': 'Stealing - Other', 'description': 'All Other Larceny', 'address': 'ADMIRAL BLVD and GRAND BLVD', 'reported_date': '02/23/2025', 'reported_time': '13:47', 'latitude': 39.10544, 'longitude': -94.58054}
+2025-10-05 21:13:57 | INFO | Crime: Theft at ADMIRAL BLVD and GRAND BLVD
+2025-10-05 21:13:59 | INFO | Sent crime: Alcohol Influence Report at NW 81ST ST and NW PRAIRIE VIEW RD
+2025-10-05 21:13:59 | INFO | Processed JSON message: {'offense': 'Alcohol Influence Report', 'description': 'Drug / Narcotic Violations', 'address': 'NW 81ST ST and NW PRAIRIE VIEW RD', 'reported_date': '03/08/2025', 'reported_time': '02:49', 'latitude': 39.24106, 'longitude': -94.65882}
+2025-10-05 21:13:59 | INFO | Crime: Other at NW 81ST ST and NW PRAIRIE VIEW RD
+2025-10-05 21:14:01 | INFO | Sent crime: Service of an Ex-Parte Order of Protection at 2200  NW 82ND ST
+2025-10-05 21:14:01 | INFO | Processed JSON message: {'offense': 'Service of an Ex-Parte Order of Protection', 'description': 'All Other Offenses', 'address': '2200  NW 82ND ST', 'reported_date': '03/06/2025', 'reported_time': '23:55', 'latitude': 39.24346, 'longitude': -94.60764}
+2025-10-05 21:14:01 | INFO | Crime: Other at 2200  NW 82ND ST
+2025-10-05 21:14:03 | INFO | Sent crime: Property Damage at 2300  HOLMES ST
+2025-10-05 21:14:03 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '2300  HOLMES ST', 'reported_date': '01/02/2025', 'reported_time': '07:25', 'latitude': 39.08498, 'longitude': -94.57603}
+2025-10-05 21:14:03 | INFO | Crime: Property Crime at 2300  HOLMES ST
+2025-10-05 21:14:05 | INFO | Sent crime: Trespass of Real Property at 5200  N ANTIOCH RD
+2025-10-05 21:14:05 | INFO | Processed JSON message: {'offense': 'Trespass of Real Property', 'description': 'Trespass of Real Property', 'address': '5200  N ANTIOCH RD', 'reported_date': '01/18/2025', 'reported_time': '17:36', 'latitude': 39.18835, 'longitude': -94.54878}
+2025-10-05 21:14:05 | INFO | Crime: Other at 5200  N ANTIOCH RD
+2025-10-05 21:14:07 | INFO | Sent crime: Stealing from Auto (Auto Part or Accessory) at BLUE RIDGE BLVD and E I 470 HWY E
+2025-10-05 21:14:07 | INFO | Processed JSON message: {'offense': 'Stealing from Auto (Auto Part or Accessory)', 'description': 'Theft of Vehicle Parts and Accessories', 'address': 'BLUE RIDGE BLVD and E I 470 HWY E', 'reported_date': '01/23/2025', 'reported_time': '14:09', 'latitude': 39.10604, 'longitude': -94.47997}
+2025-10-05 21:14:07 | INFO | Crime: Theft at BLUE RIDGE BLVD and E I 470 HWY E
+2025-10-05 21:14:09 | INFO | Sent crime: Stolen Auto at 4700  E COAL MINE RD
+2025-10-05 21:14:09 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '4700  E COAL MINE RD', 'reported_date': '01/20/2025', 'reported_time': '09:01', 'latitude': 39.04362, 'longitude': -94.51361}
+2025-10-05 21:14:09 | INFO | Crime: Vehicle Crime at 4700  E COAL MINE RD
+2025-10-05 21:14:11 | INFO | Sent crime: Stealing - Shoplift at 11600  E US 40 HWY
+2025-10-05 21:14:11 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '11600  E US 40 HWY', 'reported_date': '02/25/2025', 'reported_time': '06:52', 'latitude': 39.04642, 'longitude': -94.44111}
+2025-10-05 21:14:11 | INFO | Crime: Theft at 11600  E US 40 HWY
+2025-10-05 21:14:13 | INFO | Sent crime: Robbery (Armed Street) at 7500  TROOST AVE
+2025-10-05 21:14:13 | INFO | Processed JSON message: {'offense': 'Robbery (Armed Street)', 'description': 'Robbery', 'address': '7500  TROOST AVE', 'reported_date': '02/10/2025', 'reported_time': '12:37', 'latitude': 38.99104, 'longitude': -94.57625}
+2025-10-05 21:14:13 | INFO | Crime: Robbery at 7500  TROOST AVE
+2025-10-05 21:14:15 | INFO | Sent crime: Stolen Auto at 500  E 3RD ST
+2025-10-05 21:14:15 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '500  E 3RD ST', 'reported_date': '02/09/2025', 'reported_time': '11:02', 'latitude': 39.11097, 'longitude': -94.57891}
+2025-10-05 21:14:15 | INFO | Crime: Vehicle Crime at 500  E 3RD ST
+2025-10-05 21:14:17 | INFO | Sent crime: Stolen Auto at E 31ST ST and WAYNE AVE
+2025-10-05 21:14:17 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': 'E 31ST ST and WAYNE AVE', 'reported_date': '02/13/2025', 'reported_time': '20:56', 'latitude': 39.07026, 'longitude': -94.5644}
+2025-10-05 21:14:17 | INFO | Crime: Vehicle Crime at E 31ST ST and WAYNE AVE
+2025-10-05 21:14:19 | INFO | Sent crime: Harassment / Intimidation - Domestic Violence at 3300  WABASH AVE
+2025-10-05 21:14:19 | INFO | Processed JSON message: {'offense': 'Harassment / Intimidation - Domestic Violence', 'description': 'Intimidation', 'address': '3300  WABASH AVE', 'reported_date': '03/03/2025', 'reported_time': '13:47', 'latitude': 39.06615, 'longitude': -94.55418}
+2025-10-05 21:14:19 | INFO | Crime: Domestic Violence at 3300  WABASH AVE
+2025-10-05 21:14:21 | INFO | Sent crime: Burglary (Residential) at 400  BALES AVE
+2025-10-05 21:14:21 | INFO | Processed JSON message: {'offense': 'Burglary (Residential)', 'description': 'Vandalism/Destruction of Property', 'address': '400  BALES AVE', 'reported_date': '02/21/2025', 'reported_time': '18:00', 'latitude': 39.10944, 'longitude': -94.54031}
+2025-10-05 21:14:21 | INFO | Crime: Burglary at 400  BALES AVE
+2025-10-05 21:14:23 | INFO | Sent crime: Domestic Violence Assault (Aggravated) at 6500  ROBERTS ST
+2025-10-05 21:14:23 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '6500  ROBERTS ST', 'reported_date': '02/18/2025', 'reported_time': '16:39', 'latitude': 39.10555, 'longitude': -94.50607}
+2025-10-05 21:14:23 | INFO | Crime: Violent Crime at 6500  ROBERTS ST
+2025-10-05 21:14:25 | INFO | Sent crime: Assault (Non-Aggravated) at NE PARVIN RD and N TROOST AVE
+2025-10-05 21:14:25 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': 'NE PARVIN RD and N TROOST AVE', 'reported_date': '02/20/2025', 'reported_time': '17:53', 'latitude': 39.17019, 'longitude': -94.56757}
+2025-10-05 21:14:25 | INFO | Crime: Violent Crime at NE PARVIN RD and N TROOST AVE
+2025-10-05 21:14:27 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 8800  LEEDS RD
+2025-10-05 21:14:27 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'All Other Offenses', 'address': '8800  LEEDS RD', 'reported_date': '03/10/2025', 'reported_time': '15:56', 'latitude': 39.05645, 'longitude': -94.47964}
+2025-10-05 21:14:27 | INFO | Crime: Violent Crime at 8800  LEEDS RD
+2025-10-05 21:14:29 | INFO | Sent crime: Identity Theft at 5800  N LONDON AVE
+2025-10-05 21:14:29 | INFO | Processed JSON message: {'offense': 'Identity Theft', 'description': 'Identity Theft', 'address': '5800  N LONDON AVE', 'reported_date': '01/10/2025', 'reported_time': '11:14', 'latitude': 39.20042, 'longitude': -94.63245}
+2025-10-05 21:14:29 | INFO | Crime: Theft at 5800  N LONDON AVE
+2025-10-05 21:14:31 | INFO | Sent crime: Property Damage at 6700  KENWOOD AVE
+2025-10-05 21:14:31 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Theft From Building', 'address': '6700  KENWOOD AVE', 'reported_date': '03/06/2025', 'reported_time': '10:31', 'latitude': 39.00679, 'longitude': -94.581}
+2025-10-05 21:14:31 | INFO | Crime: Property Crime at 6700  KENWOOD AVE
+2025-10-05 21:14:33 | INFO | Sent crime: Stolen Auto at 1300  BALTIMORE AVE
+2025-10-05 21:14:33 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '1300  BALTIMORE AVE', 'reported_date': '03/06/2025', 'reported_time': '14:12', 'latitude': 39.09845, 'longitude': -94.58435}
+2025-10-05 21:14:33 | INFO | Crime: Vehicle Crime at 1300  BALTIMORE AVE
+2025-10-05 21:14:35 | INFO | Sent crime: Tampering at 10500  MERSINGTON AVE
+2025-10-05 21:14:35 | INFO | Processed JSON message: {'offense': 'Tampering', 'description': 'Motor Vehicle Theft', 'address': '10500  MERSINGTON AVE', 'reported_date': '03/04/2025', 'reported_time': '17:16', 'latitude': 38.93642, 'longitude': -94.54406}
+2025-10-05 21:14:35 | INFO | Crime: Property Crime at 10500  MERSINGTON AVE
+2025-10-05 21:14:37 | INFO | Sent crime: Legacy Incident Report/Arrest at 1100  LOCUST ST
+2025-10-05 21:14:37 | INFO | Processed JSON message: {'offense': 'Legacy Incident Report/Arrest', 'description': '', 'address': '1100  LOCUST ST', 'reported_date': '01/28/2025', 'reported_time': '13:17', 'latitude': 39.10081, 'longitude': -94.57735}
+2025-10-05 21:14:37 | INFO | Crime: Other at 1100  LOCUST ST
+2025-10-05 21:14:39 | INFO | Sent crime: Stealing from Building/Residence at 2000  E 35TH ST
+2025-10-05 21:14:39 | INFO | Processed JSON message: {'offense': 'Stealing from Building/Residence', 'description': 'All Other Larceny', 'address': '2000  E 35TH ST', 'reported_date': '03/11/2025', 'reported_time': '08:55', 'latitude': 39.06286, 'longitude': -94.55996}
+2025-10-05 21:14:39 | INFO | Crime: Theft at 2000  E 35TH ST
+2025-10-05 21:14:41 | INFO | Sent crime: Embezzlement at 9700  MARION PARK DR
+2025-10-05 21:14:41 | INFO | Processed JSON message: {'offense': 'Embezzlement', 'description': 'Embezzlement', 'address': '9700  MARION PARK DR', 'reported_date': '02/18/2025', 'reported_time': '15:58', 'latitude': 38.95078, 'longitude': -94.53617}
+2025-10-05 21:14:41 | INFO | Crime: Fraud at 9700  MARION PARK DR
+2025-10-05 21:14:43 | INFO | Sent crime: Stealing - Shoplift at 8500  N BOARDWALK AVE
+2025-10-05 21:14:43 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '8500  N BOARDWALK AVE', 'reported_date': '01/30/2025', 'reported_time': '18:59', 'latitude': 39.25013, 'longitude': -94.65713}
+2025-10-05 21:14:43 | INFO | Crime: Theft at 8500  N BOARDWALK AVE
+2025-10-05 21:14:45 | INFO | Sent crime: Obstructing and Resisting an Officer at 1800  E FRONT ST
+2025-10-05 21:14:45 | INFO | Processed JSON message: {'offense': 'Obstructing and Resisting an Officer', 'description': 'All Other Offenses', 'address': '1800  E FRONT ST', 'reported_date': '03/04/2025', 'reported_time': '16:09', 'latitude': 39.12035, 'longitude': -94.56209}
+2025-10-05 21:14:45 | INFO | Crime: Other at 1800  E FRONT ST
+2025-10-05 21:14:47 | INFO | Sent crime: Embezzlement at 10500  HILLCREST RD
+2025-10-05 21:14:47 | INFO | Processed JSON message: {'offense': 'Embezzlement', 'description': 'Embezzlement', 'address': '10500  HILLCREST RD', 'reported_date': '02/14/2025', 'reported_time': '10:02', 'latitude': 38.9364, 'longitude': -94.52263}
+2025-10-05 21:14:47 | INFO | Crime: Fraud at 10500  HILLCREST RD
+2025-10-05 21:14:49 | INFO | Sent crime: Stolen Auto at 5900  NW 63RD TER
+2025-10-05 21:14:49 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '5900  NW 63RD TER', 'reported_date': '01/17/2025', 'reported_time': '22:12', 'latitude': 39.2091, 'longitude': -94.64893}
+2025-10-05 21:14:49 | INFO | Crime: Vehicle Crime at 5900  NW 63RD TER
+2025-10-05 21:14:51 | INFO | Sent crime: Assault (Aggravated) at 7000  CHESTNUT AVE
+2025-10-05 21:14:51 | INFO | Processed JSON message: {'offense': 'Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '7000  CHESTNUT AVE', 'reported_date': '03/02/2025', 'reported_time': '21:43', 'latitude': 38.9996, 'longitude': -94.55448}
+2025-10-05 21:14:51 | INFO | Crime: Violent Crime at 7000  CHESTNUT AVE
+2025-10-05 21:14:53 | INFO | Sent crime: Stealing - Shoplift at 8500  N BOARDWALK AVE
+2025-10-05 21:14:53 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '8500  N BOARDWALK AVE', 'reported_date': '01/16/2025', 'reported_time': '22:55', 'latitude': 39.25013, 'longitude': -94.65713}
+2025-10-05 21:14:53 | INFO | Crime: Theft at 8500  N BOARDWALK AVE
+2025-10-05 21:14:55 | INFO | Sent crime: Vehicular - Non-Injury at BRUCE R WATKINS DR N and PASEO
+2025-10-05 21:14:55 | INFO | Processed JSON message: {'offense': 'Vehicular - Non-Injury', 'description': '', 'address': 'BRUCE R WATKINS DR N and PASEO', 'reported_date': '03/14/2025', 'reported_time': '12:21', 'latitude': 39.08262, 'longitude': -94.56645}
+2025-10-05 21:14:55 | INFO | Crime: Other at BRUCE R WATKINS DR N and PASEO
+2025-10-05 21:14:57 | INFO | Sent crime: Stealing - Shoplift at 4200  MAIN ST
+2025-10-05 21:14:57 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '4200  MAIN ST', 'reported_date': '02/04/2025', 'reported_time': '19:14', 'latitude': 39.0505, 'longitude': -94.58675}
+2025-10-05 21:14:57 | INFO | Crime: Theft at 4200  MAIN ST
+2025-10-05 21:14:59 | INFO | Sent crime: Stealing - Shoplift at 3700  NW 90TH ST
+2025-10-05 21:14:59 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '3700  NW 90TH ST', 'reported_date': '02/28/2025', 'reported_time': '14:18', 'latitude': 39.2553, 'longitude': -94.62327}
+2025-10-05 21:14:59 | INFO | Crime: Theft at 3700  NW 90TH ST
+2025-10-05 21:15:01 | INFO | Sent crime: Stolen Auto at 400  E 20TH ST
+2025-10-05 21:15:01 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '400  E 20TH ST', 'reported_date': '03/16/2025', 'reported_time': '09:15', 'latitude': 39.08887, 'longitude': -94.57909}
+2025-10-05 21:15:01 | INFO | Crime: Vehicle Crime at 400  E 20TH ST
+2025-10-05 21:15:03 | INFO | Sent crime: Property Damage at 5200  FRANKLIN AVE
+2025-10-05 21:15:03 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '5200  FRANKLIN AVE', 'reported_date': '02/13/2025', 'reported_time': '09:43', 'latitude': 39.03136, 'longitude': -94.53238}
+2025-10-05 21:15:03 | INFO | Crime: Property Crime at 5200  FRANKLIN AVE
+2025-10-05 21:15:05 | INFO | Sent crime: Stolen Auto at 9500  N AMBASSADOR DR
+2025-10-05 21:15:05 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '9500  N AMBASSADOR DR', 'reported_date': '02/05/2025', 'reported_time': '16:06', 'latitude': 39.26397, 'longitude': -94.65172}
+2025-10-05 21:15:05 | INFO | Crime: Vehicle Crime at 9500  N AMBASSADOR DR
+2025-10-05 21:15:07 | INFO | Sent crime: Robbery (Armed Street) at 12900  E 62ND ST
+2025-10-05 21:15:07 | INFO | Processed JSON message: {'offense': 'Robbery (Armed Street)', 'description': 'Robbery', 'address': '12900  E 62ND ST', 'reported_date': '02/06/2025', 'reported_time': '20:19', 'latitude': 39.00891, 'longitude': -94.42971}
+2025-10-05 21:15:07 | INFO | Crime: Robbery at 12900  E 62ND ST
+2025-10-05 21:15:09 | INFO | Sent crime: Recovered Stolen Auto at 5600  E 16TH TER
+2025-10-05 21:15:09 | INFO | Processed JSON message: {'offense': 'Recovered Stolen Auto', 'description': 'Stolen Property Offenses', 'address': '5600  E 16TH TER', 'reported_date': '02/11/2025', 'reported_time': '06:48', 'latitude': 39.09163, 'longitude': -94.51696}
+2025-10-05 21:15:09 | INFO | Crime: Vehicle Crime at 5600  E 16TH TER
+2025-10-05 21:15:11 | INFO | Sent crime: Assault (Aggravated) at 2100  E 77TH TER
+2025-10-05 21:15:11 | INFO | Processed JSON message: {'offense': 'Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '2100  E 77TH TER', 'reported_date': '01/13/2025', 'reported_time': '11:48', 'latitude': 38.98565, 'longitude': -94.5625}
+2025-10-05 21:15:11 | INFO | Crime: Violent Crime at 2100  E 77TH TER
+2025-10-05 21:15:13 | INFO | Sent crime: Domestic Violence Assault (Aggravated) at 10500  E 43RD ST
+2025-10-05 21:15:13 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '10500  E 43RD ST', 'reported_date': '02/08/2025', 'reported_time': '18:28', 'latitude': 39.04458, 'longitude': -94.45799}
+2025-10-05 21:15:13 | INFO | Crime: Violent Crime at 10500  E 43RD ST
+2025-10-05 21:15:15 | INFO | Sent crime: Harassment / Intimidation - Domestic Violence at 5700  N DRURY AVE
+2025-10-05 21:15:15 | INFO | Processed JSON message: {'offense': 'Harassment / Intimidation - Domestic Violence', 'description': 'Intimidation', 'address': '5700  N DRURY AVE', 'reported_date': '01/15/2025', 'reported_time': '15:13', 'latitude': 39.19845, 'longitude': -94.51379}
+2025-10-05 21:15:15 | INFO | Crime: Domestic Violence at 5700  N DRURY AVE
+2025-10-05 21:15:17 | INFO | Sent crime: Stolen Auto at 8600  NW WAUKOMIS DR
+2025-10-05 21:15:17 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '8600  NW WAUKOMIS DR', 'reported_date': '03/03/2025', 'reported_time': '06:33', 'latitude': 39.24999, 'longitude': -94.64322}
+2025-10-05 21:15:17 | INFO | Crime: Vehicle Crime at 8600  NW WAUKOMIS DR
+2025-10-05 21:15:19 | INFO | Sent crime: Stealing from Auto (Auto Part or Accessory) at 1300  W 12TH ST
+2025-10-05 21:15:19 | INFO | Processed JSON message: {'offense': 'Stealing from Auto (Auto Part or Accessory)', 'description': 'Theft of Vehicle Parts and Accessories', 'address': '1300  W 12TH ST', 'reported_date': '01/07/2025', 'reported_time': '15:58', 'latitude': 39.10072, 'longitude': -94.6001}
+2025-10-05 21:15:19 | INFO | Crime: Theft at 1300  W 12TH ST
+2025-10-05 21:15:21 | INFO | Sent crime: Property Damage at 1200  EMANUEL CLEAVER II BLVD
+2025-10-05 21:15:21 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '1200  EMANUEL CLEAVER II BLVD', 'reported_date': '03/13/2025', 'reported_time': '14:44', 'latitude': 39.04178, 'longitude': -94.57127}
+2025-10-05 21:15:21 | INFO | Crime: Property Crime at 1200  EMANUEL CLEAVER II BLVD
+2025-10-05 21:15:23 | INFO | Sent crime: Endangering the Welfare of a Child at 8300  BROOKLYN AVE
+2025-10-05 21:15:23 | INFO | Processed JSON message: {'offense': 'Endangering the Welfare of a Child', 'description': 'All Other Larceny', 'address': '8300  BROOKLYN AVE', 'reported_date': '02/03/2025', 'reported_time': '21:09', 'latitude': 38.97686, 'longitude': -94.56257}
+2025-10-05 21:15:23 | INFO | Crime: Other at 8300  BROOKLYN AVE
+2025-10-05 21:15:25 | INFO | Sent crime: Stealing - Shoplift at 3700  NW 90TH ST
+2025-10-05 21:15:25 | INFO | Processed JSON message: {'offense': 'Stealing - Shoplift', 'description': 'Shoplifting', 'address': '3700  NW 90TH ST', 'reported_date': '03/07/2025', 'reported_time': '07:53', 'latitude': 39.2553, 'longitude': -94.62327}
+2025-10-05 21:15:25 | INFO | Crime: Theft at 3700  NW 90TH ST
+2025-10-05 21:15:27 | INFO | Sent crime: Mental Health/Crisis Intervention Team (CIT) Report at 3200  E 52ND ST
+2025-10-05 21:15:27 | INFO | Processed JSON message: {'offense': 'Mental Health/Crisis Intervention Team (CIT) Report', 'description': '', 'address': '3200  E 52ND ST', 'reported_date': '01/04/2025', 'reported_time': '07:48', 'latitude': 39.03169, 'longitude': -94.54773}
+2025-10-05 21:15:27 | INFO | Crime: Other at 3200  E 52ND ST
+2025-10-05 21:15:29 | INFO | Sent crime: Stolen Auto at 400  E 88TH TER
+2025-10-05 21:15:29 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '400  E 88TH TER', 'reported_date': '02/17/2025', 'reported_time': '10:54', 'latitude': 38.96797, 'longitude': -94.59578}
+2025-10-05 21:15:29 | INFO | Crime: Vehicle Crime at 400  E 88TH TER
+2025-10-05 21:15:31 | INFO | Sent crime: Property Damage at E BANNISTER RD and WHITE AVE
+2025-10-05 21:15:31 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': 'E BANNISTER RD and WHITE AVE', 'reported_date': '02/21/2025', 'reported_time': '13:41', 'latitude': 38.95283, 'longitude': -94.51894}
+2025-10-05 21:15:31 | INFO | Crime: Property Crime at E BANNISTER RD and WHITE AVE
+2025-10-05 21:15:33 | INFO | Sent crime: Stealing from Building/Residence at 5300  E 53RD ST
+2025-10-05 21:15:33 | INFO | Processed JSON message: {'offense': 'Stealing from Building/Residence', 'description': 'Theft From Building', 'address': '5300  E 53RD ST', 'reported_date': '02/11/2025', 'reported_time': '12:24', 'latitude': 39.02902, 'longitude': -94.52329}
+2025-10-05 21:15:33 | INFO | Crime: Theft at 5300  E 53RD ST
+2025-10-05 21:15:35 | INFO | Sent crime: Domestic Violence Assault (Aggravated) at 400  DONNELLY AVE
+2025-10-05 21:15:35 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': '400  DONNELLY AVE', 'reported_date': '01/26/2025', 'reported_time': '02:54', 'latitude': 39.10838, 'longitude': -94.48434}
+2025-10-05 21:15:35 | INFO | Crime: Violent Crime at 400  DONNELLY AVE
+2025-10-05 21:15:37 | INFO | Sent crime: Burglary (Residential) at 4300  TROOST AVE
+2025-10-05 21:15:37 | INFO | Processed JSON message: {'offense': 'Burglary (Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '4300  TROOST AVE', 'reported_date': '01/29/2025', 'reported_time': '13:53', 'latitude': 39.04846, 'longitude': -94.57258}
+2025-10-05 21:15:37 | INFO | Crime: Burglary at 4300  TROOST AVE
+2025-10-05 21:15:39 | INFO | Sent crime: Trespass of Real Property at 5600  E 28TH ST
+2025-10-05 21:15:39 | INFO | Processed JSON message: {'offense': 'Trespass of Real Property', 'description': 'Trespass of Real Property', 'address': '5600  E 28TH ST', 'reported_date': '01/21/2025', 'reported_time': '05:16', 'latitude': 39.07454, 'longitude': -94.51787}
+2025-10-05 21:15:39 | INFO | Crime: Other at 5600  E 28TH ST
+2025-10-05 21:15:41 | INFO | Sent crime: Domestic Violence Assault (Non-Aggravated) at 5100  NE 36TH ST
+2025-10-05 21:15:41 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '5100  NE 36TH ST', 'reported_date': '02/17/2025', 'reported_time': '15:38', 'latitude': 39.15907, 'longitude': -94.52031}
+2025-10-05 21:15:41 | INFO | Crime: Violent Crime at 5100  NE 36TH ST
+2025-10-05 21:15:43 | INFO | Sent crime: Robbery (Business) at 1300  PROSPECT AVE
+2025-10-05 21:15:43 | INFO | Processed JSON message: {'offense': 'Robbery (Business)', 'description': 'Robbery', 'address': '1300  PROSPECT AVE', 'reported_date': '01/04/2025', 'reported_time': '14:40', 'latitude': 39.09724, 'longitude': -94.5517}
+2025-10-05 21:15:43 | INFO | Crime: Robbery at 1300  PROSPECT AVE
+2025-10-05 21:15:45 | INFO | Sent crime: Miscellaneous City Ordinance Violation at E 39TH ST and TROOST AVE
+2025-10-05 21:15:45 | INFO | Processed JSON message: {'offense': 'Miscellaneous City Ordinance Violation', 'description': 'All Other Offenses', 'address': 'E 39TH ST and TROOST AVE', 'reported_date': '01/15/2025', 'reported_time': '19:33', 'latitude': 39.05608, 'longitude': -94.57212}
+2025-10-05 21:15:45 | INFO | Crime: Other at E 39TH ST and TROOST AVE
+2025-10-05 21:15:47 | INFO | Sent crime: Stolen Auto at 7600  E 17TH ST
+2025-10-05 21:15:47 | INFO | Processed JSON message: {'offense': 'Stolen Auto', 'description': 'Motor Vehicle Theft', 'address': '7600  E 17TH ST', 'reported_date': '02/10/2025', 'reported_time': '11:40', 'latitude': 39.08968, 'longitude': -94.49382}
+2025-10-05 21:15:47 | INFO | Crime: Vehicle Crime at 7600  E 17TH ST
+2025-10-05 21:15:49 | INFO | Sent crime: Property Damage at 300  WESTPORT RD
+2025-10-05 21:15:49 | INFO | Processed JSON message: {'offense': 'Property Damage', 'description': 'Vandalism/Destruction of Property', 'address': '300  WESTPORT RD', 'reported_date': '02/25/2025', 'reported_time': '12:56', 'latitude': 39.05403, 'longitude': -94.58986}
+2025-10-05 21:15:49 | INFO | Crime: Property Crime at 300  WESTPORT RD
+2025-10-05 21:15:51 | INFO | Sent crime: Domestic Violence Property Damage at 1200  NE PARVIN RD
+2025-10-05 21:15:51 | INFO | Processed JSON message: {'offense': 'Domestic Violence Property Damage', 'description': 'Intimidation', 'address': '1200  NE PARVIN RD', 'reported_date': '03/13/2025', 'reported_time': '09:27', 'latitude': 39.17083, 'longitude': -94.56667}
+2025-10-05 21:15:51 | INFO | Crime: Property Crime at 1200  NE PARVIN RD
+2025-10-05 21:15:53 | INFO | Sent crime: Assault (Non-Aggravated) at 200  N BALTIMORE AVE
+2025-10-05 21:15:53 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '200  N BALTIMORE AVE', 'reported_date': '01/21/2025', 'reported_time': '13:15', 'latitude': 39.11727, 'longitude': -94.58708}
+2025-10-05 21:15:53 | INFO | Crime: Violent Crime at 200  N BALTIMORE AVE
+2025-10-05 21:15:55 | INFO | Sent crime: Abuse of a Child at 5100  N HIGHLAND AVE
+2025-10-05 21:15:55 | INFO | Processed JSON message: {'offense': 'Abuse of a Child', 'description': 'Simple Assault', 'address': '5100  N HIGHLAND AVE', 'reported_date': '02/06/2025', 'reported_time': '09:33', 'latitude': 39.18779, 'longitude': -94.55832}
+2025-10-05 21:15:55 | INFO | Crime: Other at 5100  N HIGHLAND AVE
+2025-10-05 21:15:57 | INFO | Sent crime: Robbery (Armed Street) at 3800  E 71ST TER
+2025-10-05 21:15:57 | INFO | Processed JSON message: {'offense': 'Robbery (Armed Street)', 'description': 'Robbery', 'address': '3800  E 71ST TER', 'reported_date': '02/15/2025', 'reported_time': '07:21', 'latitude': 38.99659, 'longitude': -94.54275}
+2025-10-05 21:15:57 | INFO | Crime: Robbery at 3800  E 71ST TER
+2025-10-05 21:15:59 | INFO | Sent crime: Assault (Non-Aggravated) at 7900  LEE'S SUMMIT RD
+2025-10-05 21:15:59 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Vandalism/Destruction of Property', 'address': "7900  LEE'S SUMMIT RD", 'reported_date': '01/17/2025', 'reported_time': '21:59', 'latitude': 38.97339, 'longitude': -94.39489}
+2025-10-05 21:15:59 | INFO | Crime: Violent Crime at 7900  LEE'S SUMMIT RD
+2025-10-05 21:16:01 | INFO | Sent crime: City Weapons Offense at 7700  WINNER RD
+2025-10-05 21:16:01 | INFO | Processed JSON message: {'offense': 'City Weapons Offense', 'description': 'All Other Offenses', 'address': '7700  WINNER RD', 'reported_date': '03/07/2025', 'reported_time': '13:52', 'latitude': 39.10659, 'longitude': -94.49311}
+2025-10-05 21:16:01 | INFO | Crime: Weapons at 7700  WINNER RD
+2025-10-05 21:16:03 | INFO | Sent crime: Burglary (Residential) at 3500  E 51ST ST
+2025-10-05 21:16:03 | INFO | Processed JSON message: {'offense': 'Burglary (Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '3500  E 51ST ST', 'reported_date': '03/17/2025', 'reported_time': '14:46', 'latitude': 39.0334, 'longitude': -94.54445}
+2025-10-05 21:16:03 | INFO | Crime: Burglary at 3500  E 51ST ST
+2025-10-05 21:16:05 | INFO | Sent crime: Assault (Non-Aggravated) at 1300  GRAND BLVD
+2025-10-05 21:16:05 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '1300  GRAND BLVD', 'reported_date': '01/18/2025', 'reported_time': '14:48', 'latitude': 39.09785, 'longitude': -94.58103}
+2025-10-05 21:16:05 | INFO | Crime: Violent Crime at 1300  GRAND BLVD
+2025-10-05 21:16:07 | INFO | Sent crime: Domestic Violence Assault (Aggravated) at W 75TH ST and WORNALL RD
+2025-10-05 21:16:07 | INFO | Processed JSON message: {'offense': 'Domestic Violence Assault (Aggravated)', 'description': 'Aggravated Assault', 'address': 'W 75TH ST and WORNALL RD', 'reported_date': '03/10/2025', 'reported_time': '15:23', 'latitude': 38.9924, 'longitude': -94.59431}
+2025-10-05 21:16:07 | INFO | Crime: Violent Crime at W 75TH ST and WORNALL RD
+2025-10-05 21:16:09 | INFO | Sent crime: Violation of Ex-Parte Order of Protection at 5100  N CLEVELAND AVE
+2025-10-05 21:16:09 | INFO | Processed JSON message: {'offense': 'Violation of Ex-Parte Order of Protection', 'description': 'All Other Offenses', 'address': '5100  N CLEVELAND AVE', 'reported_date': '03/01/2025', 'reported_time': '23:20', 'latitude': 39.18708, 'longitude': -94.53453}
+2025-10-05 21:16:09 | INFO | Crime: Other at 5100  N CLEVELAND AVE
+2025-10-05 21:16:11 | INFO | Sent crime: Burglary (Non-Residential) at 6600  BLUE RIDGE BLVD
+2025-10-05 21:16:11 | INFO | Processed JSON message: {'offense': 'Burglary (Non-Residential)', 'description': 'Burglary/Breaking and Entering', 'address': '6600  BLUE RIDGE BLVD', 'reported_date': '01/02/2025', 'reported_time': '04:15', 'latitude': 39.00415, 'longitude': -94.483}
+2025-10-05 21:16:11 | INFO | Crime: Burglary at 6600  BLUE RIDGE BLVD
+2025-10-05 21:16:13 | INFO | Sent crime: Possession/Sale/Distribution of a Controlled Substance at E 31ST ST and STADIUM DR
+2025-10-05 21:16:13 | INFO | Processed JSON message: {'offense': 'Possession/Sale/Distribution of a Controlled Substance', 'description': 'Drug Equipment Violations', 'address': 'E 31ST ST and STADIUM DR', 'reported_date': '01/03/2025', 'reported_time': '08:52', 'latitude': 39.06882, 'longitude': -94.52029}
+2025-10-05 21:16:13 | INFO | Crime: Drug Offense at E 31ST ST and STADIUM DR
+2025-10-05 21:16:15 | INFO | Sent crime: Assault (Non-Aggravated) at 5500  E BANNISTER RD
+2025-10-05 21:16:15 | INFO | Processed JSON message: {'offense': 'Assault (Non-Aggravated)', 'description': 'Simple Assault', 'address': '5500  E BANNISTER RD', 'reported_date': '01/20/2025', 'reported_time': '05:11', 'latitude': 38.95315, 'longitude': -94.52738}
+2025-10-05 21:16:15 | INFO | Crime: Violent Crime at 5500  E BANNISTER RD
+2025-10-05 21:16:16 | WARNING | Consumer interrupted by user.
+2025-10-05 21:16:16 | INFO | Kafka consumer for topic 'kc_crime_2025' closed.
+2025-10-05 21:16:17 | INFO | Sent crime: Domestic Violence Assault (Aggravated) at 1700  GRAND BLVD
+2025-10-05 21:16:22 | WARNING | Producer interrupted by user.
